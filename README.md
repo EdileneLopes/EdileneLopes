@@ -2,8 +2,6 @@
 
 ## Edilene Lopes 
 
-![GitHub Logo](/imagem/mulher.svg)
-
 
 Sou a Edilene. Estou em transição de carreira, escolhi 
 estudar programação por ser uma das áreas que mais cresce.
