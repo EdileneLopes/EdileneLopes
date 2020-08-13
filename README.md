@@ -3,13 +3,13 @@
 ## Edilene Lopes 
 
 
-Sou a Edilene. Estou em transição de carreira, escolhi 
+Estou em transição de carreira, escolhi 
 estudar programação por ser uma das áreas que mais cresce. <br>
-E também pelo "senso" de comunidade que tem.<br>
-Para isso, estou fazendo curso de back-end na {Reprograma}.
+E também pelo sentimento de pertencer a uma comunidade que se ajuda.<br>
+Para isso, estou fazendo curso de back-end (Javascript) na {Reprograma}.
 
-Gosto de brincar com meu filho, cozinhar(embora não saiba muito rsrsr)
-Gosto de ficar perto da natureza.
+Gosto de brincar com meu filho   :heart_eyes:	, cozinhar(embora não saiba muito rsrsr) cake ,  spaghetti
+Gosto de ficar perto da natureza. :deciduous_tree: , blossom
 
 [linkedin](http://https://www.linkedin.com/in/edilene-lopes-b2254224/)
 
