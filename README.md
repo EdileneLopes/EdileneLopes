@@ -28,12 +28,12 @@ Gosto de ficar perto da natureza. :deciduous_tree: , :blossom:
 
 ### Tecnologias e Ferramentas:
 
-<img src = "https://img.shields.io/badge/-GITHUB-brightgreen">
-<img src = "https://img.shields.io/badge/-npm-red">
-<img = src = "https://img.shields.io/badge/-Node.Js-blue">
-<img src = "https://img.shields.io/badge/-express-lightgrey">
-<img src = "https://img.shields.io/badge/-Nodemoon-green">
-<img src = "https://img.shields.io/badge/-MongoDb-orange">
+<img src = "https://img.shields.io/badge/-GITHUB-brightgreen">;
+<img src ="https://img.shields.io/badge/-npm-red">;
+<img src = "https://img.shields.io/badge/-Node.Js-blue">;
+<img src = "https://img.shields.io/badge/-express-lightgrey">;
+<img src = "https://img.shields.io/badge/-Nodemoon-green">;
+<img src = "https://img.shields.io/badge/-MongoDb-orange">;
 <img src = "https://img.shields.io/badge/-Python-yellow">
 
 
