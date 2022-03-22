@@ -19,7 +19,7 @@ Gosto de ficar perto da natureza. :deciduous_tree: , :blossom:
 -----
 
 
-### Tecnologias e Ferramentas:
+###  🚀 Tecnologias e Ferramentas:
 
 Dia a Dia: 
 
