@@ -3,16 +3,10 @@
 ## Edilene Lopes 
 
 
-Estou em transição de carreira, sou versátil e determinada. Escolhi 
-estudar programação por ser uma das áreas que mais cresce. <br>
+Escolhi estudar programação por ser uma das áreas que mais cresce. <br>
 E também pelo sentimento de pertencer a uma comunidade que se ajuda.<br>
-Para isso, estou fazendo curso de back-end (Javascript) na {Reprograma} onde aprendemos:
-
-* Versionamento de código;
-
-* Construção de API baseado na estrutura MVC;
-
-* MongoDb
+Já fui aluna do curso de back-end (Javascript) na {Reprograma}.<br>
+Agora estou me dedicando a certificação em análise de dados da IBM - laboratória
 
 Sou membro das comunidades: Cloud Girls e PyLadies Brasil.  Pois quero participar desse movimento de inclusão de mais mulheres na tecnologia.   	🙆‍♀️ 	💪 
 
@@ -27,6 +21,8 @@ Gosto de ficar perto da natureza. :deciduous_tree: , :blossom:
 
 
 ### Tecnologias e Ferramentas:
+
+Dia a Dia: 
 
 <img src = "https://img.shields.io/badge/-GITHUB-brightgreen">;
 <img src ="https://img.shields.io/badge/-npm-red">;
