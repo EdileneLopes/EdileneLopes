@@ -3,8 +3,7 @@
 ## Edilene Lopes 
 
 
-Escolhi estudar programação por ser uma das áreas que mais cresce. <br>
-E também pelo sentimento de pertencer a uma comunidade que se ajuda.<br>
+Escolhi estudar programação pelo sentimento de pertencer a uma comunidade que se ajuda.<br>
 Já fui aluna do curso de back-end (Javascript) na {Reprograma}.<br>
 Agora estou me dedicando a certificação em análise de dados da IBM - laboratória
 
