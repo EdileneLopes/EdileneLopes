@@ -45,7 +45,15 @@ Tenho Conhecimento:
 <img src = "https://img.shields.io/badge/-MongoDb-orange">;
 
 
-
+ ### 👩🏾‍💻 Principais Repositórios:
+<div>
+  
+  📚 Análise de Dados
+  
+  Portfólio com projetos de análise de dados 
+	<a href="https://github-readme-stats.vercel.app/api?username=EdileneLopes">
+	
+</div>
 
 -----
 
