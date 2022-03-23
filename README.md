@@ -24,7 +24,8 @@ Gosto de ficar perto da natureza. :deciduous_tree: , :blossom:
 ###  🚀 Tecnologias e Ferramentas:
 
 Dia a Dia: 
-<img src = "https://img.shields.io/badge/-Python-yellow">
+<img src = "https://img.shields.io/badge/-Python-yellow">;
+<img src = "https://img.shields.io/badge/-SqlServer-red">;
 
 Estou Aprendendo:
 
