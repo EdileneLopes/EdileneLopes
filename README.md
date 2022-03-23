@@ -24,21 +24,26 @@ Gosto de ficar perto da natureza. :deciduous_tree: , :blossom:
 ###  🚀 Tecnologias e Ferramentas:
 
 Dia a Dia: 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+<img src = "https://img.shields.io/badge/-Python-yellow">
+
+Estou Aprendendo:
+
+Tenho Conhecimento:
+
 <img src = "https://img.shields.io/badge/-GITHUB-brightgreen">;
 <img src ="https://img.shields.io/badge/-npm-red">;
 <img src = "https://img.shields.io/badge/-Node.Js-blue">;
 <img src = "https://img.shields.io/badge/-express-lightgrey">;
 <img src = "https://img.shields.io/badge/-Nodemoon-green">;
 <img src = "https://img.shields.io/badge/-MongoDb-orange">;
-<img src = "https://img.shields.io/badge/-Python-yellow">
+
 
 
 
 -----
 
 
-[linkedin](https://www.linkedin.com/in/edilene-lopes/)
+[linkedin](https://www.linkedin.com/in/edilene-lopes/)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/edilene-lopes/)
 
 [email](https://www.lopes_edi@yahoo.com.br)
 
