@@ -48,11 +48,11 @@ Tenho Conhecimento:
 
  ### 👩🏾‍💻 _Principais Repositórios:_
   
-  📚 Análise de Dados
+  [Portfólio/Repositório](https://github.com/EdileneLopes/Analise_Dados)
   
   Portfólio com projetos de análise de dados 
 			
-[Portfólio/Repositório](https://github.com/EdileneLopes/Analise_Dados)
+
 
 
 -----
