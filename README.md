@@ -43,7 +43,7 @@ Tenho Conhecimento:
 -----
 
 
-[linkedin](https://www.linkedin.com/in/edilene-lopes/)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/edilene-lopes/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/edilene-lopes/)
 
 [email](https://www.lopes_edi@yahoo.com.br)
 
