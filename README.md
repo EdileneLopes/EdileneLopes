@@ -28,6 +28,7 @@ Dia a Dia:
 <img src = "https://img.shields.io/badge/-SqlServer-red">;
 <img src = "https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas">;
 <img src = "https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy">;
+<img src = "https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter">
 
 Estou Aprendendo:
 <img src = "https://img.shields.io/badge/-Azure-blue">;
