@@ -44,16 +44,16 @@ Tenho Conhecimento:
 <img src = "https://img.shields.io/badge/-Nodemoon-green">;
 <img src = "https://img.shields.io/badge/-MongoDb-orange">;
 
+-----
 
- ### 👩🏾‍💻 Principais Repositórios:
-<div>
+ ### 👩🏾‍💻 _Principais Repositórios:_
   
   📚 Análise de Dados
   
   Portfólio com projetos de análise de dados 
-	<a href="https://github-readme-stats.vercel.app/api?username=EdileneLopes">
-	
-</div>
+			
+[Portfólio/Repositório](https://github.com/EdileneLopes/Analise_Dados)
+
 
 -----
 
