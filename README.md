@@ -29,10 +29,11 @@ Dia a Dia:
 
 Estou Aprendendo:
 <img src = "https://img.shields.io/badge/-Azure-blue">;
+<img src = "https://img.shields.io/badge/-Power%20Bi-yellow">;
+<img src = "https://img.shields.io/badge/-Azure-orange">
 
 
-Tenho Conhecimento:
-
+Tenho Conhecimento: 
 <img src = "https://img.shields.io/badge/-GITHUB-brightgreen">;
 <img src ="https://img.shields.io/badge/-npm-red">;
 <img src = "https://img.shields.io/badge/-Node.Js-blue">;
