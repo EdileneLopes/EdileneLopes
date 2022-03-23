@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-## Edilene Lopes 
+## Edilene Lopes 🎲
 
 
 Escolhi estudar programação pelo sentimento de pertencer a uma comunidade que se ajuda.<br>
 Já fui aluna do curso de back-end (Javascript) na {Reprograma}.<br>
-Agora estou me dedicando a certificação em análise de dados da IBM - laboratória
+Agora estou me dedicando a certificação em análise de dados da IBM - laboratória.
+Estudando Python, e análise com o Jupyter Notebook.
+Também fazendo bootcamp em Engenharia de Dados, aprendendo sobre nuvem. ☁️
 
 Sou membro das comunidades: Cloud Girls e PyLadies Brasil.  Pois quero participar desse movimento de inclusão de mais mulheres na tecnologia.   	🙆‍♀️ 	💪 
 
