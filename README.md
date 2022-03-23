@@ -28,6 +28,8 @@ Dia a Dia:
 <img src = "https://img.shields.io/badge/-SqlServer-red">;
 
 Estou Aprendendo:
+<img src = "https://img.shields.io/badge/-Azure-blue">;
+
 
 Tenho Conhecimento:
 
