@@ -24,9 +24,10 @@ Gosto de ficar perto da natureza. :deciduous_tree: , :blossom:
 ###  🚀 Tecnologias e Ferramentas:
 
 Dia a Dia: 
-<img src = "https://img.shields.io/badge/-Python-yellow">;
+<img src = "https://img.shields.io/badge/-Python-black?logoColor=green&style=flat-square&logo=Python">;
 <img src = "https://img.shields.io/badge/-SqlServer-red">;
 <img src = "https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas">;
+<img src = "https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy">;
 
 Estou Aprendendo:
 <img src = "https://img.shields.io/badge/-Azure-blue">;
